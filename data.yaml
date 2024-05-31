@@ -1,0 +1,18 @@
+names:
+- Anger
+- Disgust
+- Fear
+- Happy
+- N
+- Sadness
+- Surprise
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: fer-s4bk3
+  url: https://universe.roboflow.com/yolo-onuf0/fer-s4bk3/dataset/1
+  version: 1
+  workspace: yolo-onuf0
+test: /content/FER-1/test/images
+train: /content/FER-1/train/images
+val: /content/FER-1/valid/images
